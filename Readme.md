@@ -1,0 +1,1 @@
+Trying to work with pytorch by training a model on MNIST hand written digits dataset and achieving 99.3% accuracy within 15 epochs and 15K parameters.  
